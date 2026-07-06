@@ -21,7 +21,7 @@ Every screen, interaction, animation, and navigation flow should follow this spe
 ---
 
 # 2. UX Goals
-
+ 
 The player should feel:
 
 * Excited within the first 10 seconds

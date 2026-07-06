@@ -423,7 +423,7 @@ Potential additions include:
 # 22. Success Metrics
 
 The economy succeeds when:
-
+ 
 * Players return daily.
 * Rewards feel satisfying.
 * Progress is visible.

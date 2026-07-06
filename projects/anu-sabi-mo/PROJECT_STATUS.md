@@ -27,7 +27,7 @@ Offline MVP
 ✅ Coins
 
 ✅ Daily Challenge
-
+ 
 ✅ Daily Streak
 
 ✅ New UI

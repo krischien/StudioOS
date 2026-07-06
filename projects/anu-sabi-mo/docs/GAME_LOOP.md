@@ -340,7 +340,7 @@ Potential additions include:
 ---
 
 # Related Documents
-
+ 
 - 01_VISION.md
 - 02_GAMEPLAY.md
 - 04_UI_UX.md

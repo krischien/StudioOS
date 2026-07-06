@@ -88,4 +88,4 @@ See the /docs folder.
 ## License
 
 Private project.
-Copyright © Kristian Arendain
+Copyright © Kristian Arendain 

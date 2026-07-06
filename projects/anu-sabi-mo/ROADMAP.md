@@ -49,7 +49,7 @@ Party Mode
 Bluetooth
 
 LAN
-
+ 
 Private Rooms
 
 ------------------------

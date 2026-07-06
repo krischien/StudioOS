@@ -400,7 +400,7 @@ The Rambler Engine succeeds when:
 * 05_ECONOMY.md
 * 07_CONTENT_PACKS.md
 * 10_TECHNICAL_ARCHITECTURE.md
-
+ 
 ---
 
 # Revision History

@@ -58,7 +58,7 @@ Content Packs
 
 ## Milestone 8
 
-Rambler Engine conceived.
+Rambler Engine conceived.  
 
 Research potential identified.
 

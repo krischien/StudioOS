@@ -260,7 +260,7 @@ Future gameplay systems may include:
 ---
 
 # Related Documents
-
+ 
 - 01_VISION.md
 - 03_GAME_LOOP.md
 - 04_UI_UX.md
