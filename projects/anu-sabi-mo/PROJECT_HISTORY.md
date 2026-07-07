@@ -1,71 +1,102 @@
-# Project History
+---
+Document ID: ROOT-005
+Title: Project History
+Version: 1.0.0
+Status: CURRENT
+Owner: Kristian Arendain
+Maintainer: Ziv (ChatGPT)
+Last Updated: 2026-07-07
 
-## Initial Idea
+Related Documents:
+- PROJECT_STATUS.md
+- ROADMAP.md
+- TODO.md
+---
 
-Inspired by Filipino gibberish games where nonsense words sound like real phrases when spoken aloud.
+# 📜 Project History
+
+> The development history of Anu Sabi.
+
+This document records significant milestones, architectural decisions, and project evolution.
 
 ---
 
-## Milestone 1
+# Timeline
 
-Offline prototype created.
+## Project Inception
 
----
-
-## Milestone 2
-
-New UI redesign.
+The Anu Sabi project began with the goal of creating a fun, replayable Filipino party word game centered around language, culture, and social interaction.
 
 ---
 
-## Milestone 3
+## Architecture Foundation
 
-Coin economy introduced.
+Established:
 
----
+- React
+- TypeScript
+- Vite
+- Tailwind CSS
 
-## Milestone 4
-
-Daily Challenge system.
-
----
-
-## Milestone 5
-
-Daily Streak system.
+The project adopted a modular architecture with a strong emphasis on maintainability.
 
 ---
 
-## Milestone 6
+## Gameplay Systems
 
-Removed level system.
+Implemented:
 
-Replaced with Endless Mode.
-
----
-
-## Milestone 7
-
-Defined monetization strategy.
-
-Rewarded Ads
-
-Coin Packs
-
-Content Packs
+- Core phrase guessing
+- Coins
+- Badges
+- Hints
+- Daily streaks
+- Local persistence
 
 ---
 
-## Milestone 8
+## Documentation Initiative
 
-Rambler Engine conceived.  
+A documentation-first approach was adopted to ensure the project remains understandable and maintainable as it grows.
 
-Research potential identified.
+This initiative introduced:
 
-Development postponed until July 21.
+- Standardized documentation
+- Knowledge base structure
+- Versioned documents
+- Cross-referenced documentation
 
 ---
 
-## Current
+## AI Workflow
 
-Preparing Google Play release.
+The project adopted an AI-assisted workflow.
+
+Responsibilities include:
+
+- Cursor → Codebase analysis
+- Ziv → Documentation and architecture
+- Kristian Arendain → Product direction and approvals
+
+---
+
+# Major Milestones
+
+- ✅ Repository created
+- ✅ React project established
+- ✅ Core gameplay prototype completed
+- ✅ Documentation v1 initiated
+
+---
+
+# Future Milestones
+
+Future milestones will be recorded here as they are completed.
+
+---
+
+# Revision History
+
+## Version 1.0.0
+
+Initial project history established.
